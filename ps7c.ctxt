@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ps7c
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=lst
+comment2.target=void\ ArrayPrinter(java.util.ArrayList)
+comment3.params=lst
+comment3.target=void\ ArrayPrinter2(java.util.ArrayList)
+comment4.params=str
+comment4.target=java.util.ArrayList\ ArrayListConverter(java.lang.String)
+comment5.params=n
+comment5.target=java.util.ArrayList\ SieveofEratosthenes(int)
+comment6.params=n
+comment6.target=java.lang.String\ GoldbachConjecture(int)
+comment7.params=a\ b
+comment7.target=java.util.ArrayList\ AddingBigInts(java.util.ArrayList,\ java.util.ArrayList)
+numComments=8
